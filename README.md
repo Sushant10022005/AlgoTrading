@@ -42,5 +42,5 @@ RELIANCE.NS: Return = 2.27%, Win Ratio = 100.00%
 INFY.NS: Return = 0.00%, Win Ratio = 0.00%
 
 Google Sheets will be updated in real-time with all trade logs, strategy summary, and ML results.
-
+`https://docs.google.com/spreadsheets/d/1aKdGBSVpMdpNHnLUcrjRJos8bhUI7OYwCy2vRmDsJr0/edit?usp=sharing`
 
